@@ -2,6 +2,8 @@
 
 # Capture JavaScript
 
+Get your API Key and Secret from https://capture.techulus.in/console
+
 ```javascript
 // Include https://github.com/blueimp/JavaScript-MD5
 
